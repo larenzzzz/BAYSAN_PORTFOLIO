@@ -119,3 +119,8 @@ body {
     margin-bottom: 25px;
     color: #5b6b64;
 }
+
+.about-container p {
+    margin-bottom: 15px;
+    max-width: 800px;
+}
