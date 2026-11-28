@@ -73,3 +73,9 @@ body {
     color: #86e0b0;
     margin-bottom: 20px;
 }
+
+.bio {
+    max-width: 600px;
+    color: #cfe5da;
+    margin-bottom: 30px;
+}
