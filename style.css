@@ -49,3 +49,10 @@ body {
 .nav-links a:hover {
     color: #2eb872;
 }
+
+.hero {
+    background-color: #06231a;
+    color: white;
+    padding: 100px 10%;
+    text-align: left;
+}
