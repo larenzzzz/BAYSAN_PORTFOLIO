@@ -105,3 +105,12 @@ body {
 .bg-light {
     background-color: #f3faf6;
 }
+
+.section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #06231a;
+    border-bottom: 3px solid #2eb872;
+    display: inline-block;
+    padding-bottom: 5px;
+}
