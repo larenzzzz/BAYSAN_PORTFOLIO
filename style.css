@@ -114,3 +114,8 @@ body {
     display: inline-block;
     padding-bottom: 5px;
 }
+
+.section-desc {
+    margin-bottom: 25px;
+    color: #5b6b64;
+}
