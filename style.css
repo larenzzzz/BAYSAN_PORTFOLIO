@@ -97,3 +97,7 @@ body {
 .btn:hover {
     background-color: #86e0b0;
 }
+
+.section {
+    padding: 70px 10%;
+}
