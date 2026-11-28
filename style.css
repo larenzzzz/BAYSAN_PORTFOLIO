@@ -56,3 +56,9 @@ body {
     padding: 100px 10%;
     text-align: left;
 }
+
+.greeting {
+    color: #2eb872;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
